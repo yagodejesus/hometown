@@ -1,0 +1,28 @@
+codigo,sigla,nome,regiao,latitude,longitude
+11,RO,Rondônia,Norte,-10.83,-63.34
+12,AC,Acre,Norte,-8.77,-70.55
+13,AM,Amazonas,Norte,-3.47,-65.1
+14,RR,Roraima,Norte,1.99,-61.33
+15,PA,Pará,Norte,-3.79,-52.48
+16,AP,Amapá,Norte,1.41,-51.77
+17,TO,Tocantins,Norte,-9.46,-48.26
+21,MA,Maranhão,Nordeste,-5.42,-45.44
+22,PI,Piauí,Nordeste,-6.6,-42.28
+23,CE,Ceará,Nordeste,-5.2,-39.53
+24,RN,Rio Grande do Norte,Nordeste,-5.81,-36.59
+25,PB,Paraíba,Nordeste,-7.28,-36.72
+26,PE,Pernambuco,Nordeste,-8.38,-37.86
+27,AL,Alagoas,Nordeste,-9.62,-36.82
+28,SE,Sergipe,Nordeste,-10.57,-37.45
+29,BA,Bahia,Nordeste,-13.29,-41.71
+31,MG,Minas Gerais,Sudeste,-18.1,-44.38
+32,ES,Espírito Santo,Sudeste,-19.19,-40.34
+33,RJ,Rio de Janeiro,Sudeste,-22.25,-42.66
+35,SP,São Paulo,Sudeste,-22.19,-48.79
+41,PR,Paraná,Sul,-24.89,-51.55
+42,SC,Santa Catarina,Sul,-27.45,-50.95
+43,RS,Rio Grande do Sul,Sul,-30.17,-53.5
+50,MS,Mato Grosso do Sul,Centro-Oeste,-20.51,-54.54
+51,MT,Mato Grosso,Centro-Oeste,-12.64,-55.42
+52,GO,Goiás,Centro-Oeste,-15.98,-49.86
+53,DF,Distrito Federal,Centro-Oeste,-15.83,-47.86
